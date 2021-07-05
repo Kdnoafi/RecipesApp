@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">rs.raf.projekat2.david_maloparac_rn9519</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="dishes">Dishes</string>
+    <string name="saved">Saved Menus</string>
+    <string name="categories">Categories</string>
+    <string name="save_recipe">Save recipe</string>
+
+    <string-array name="categories">
+        <item>Chicken</item>
+        <item>Pizza</item>
+        <item>Breakfast</item>
+        <item>Bacon</item>
+        <item>Steak</item>
+        <item>Indian</item>
+        <item>Asian</item>
+    </string-array>
+</resources>
